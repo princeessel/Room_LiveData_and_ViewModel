@@ -36,7 +36,7 @@ else{
     }
     }
 
-    void setmWords(List<Word> words){
+    void setWords(List<Word> words){
     mWords=words;
     notifyDataSetChanged();
     }
